@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakash6200
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m Blockchain Developer
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me prakashkumar97068@gmail.com
 
