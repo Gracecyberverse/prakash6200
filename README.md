@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakash6200
+- 👋 Hi, I’m @prakash6200 (Prakash kumar)
 - 👀 I’m interested in Programming
 - 🌱 I’m Blockchain Developer
 - 💞️ I’m looking to collaborate on Blockchain
